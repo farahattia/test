@@ -1,6 +1,8 @@
 .App {
   text-align: center;
+  background-image: url(https://via.placeholder.com/500)
 }
+
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +38,6 @@
     transform: rotate(360deg);
   }
 }
+
+
+
